@@ -1,4 +1,7 @@
-put the txt files in the core directory and the code file in the userscripts directory
+********* This code aren't optimised for peer use.  ***********
+********* So make sure you have enough experience   ***********
+
+put the txt files in the core directory and the code files in scripts/userscripts
 
 edit the welcomeparameters.py file to configure
 
